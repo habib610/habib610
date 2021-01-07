@@ -62,7 +62,7 @@ ____
 ---
 <a href="https://github.com/habib610">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=habib610&layout=compact&theme=radical" />
-</a>]
+</a>
 
 <br />
 

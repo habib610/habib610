@@ -55,9 +55,8 @@ ____
 
 ---
 
+![Habib's GitHub stats](https://github-readme-stats.vercel.app/api?username=habib610&show_icons=true&theme=radical)
 
-<a href="https://github.com/habib610">
-<img align="center" alt="habib610 Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=habib610&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
 ---
 <a href="https://github.com/habib610">

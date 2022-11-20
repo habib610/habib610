@@ -108,6 +108,7 @@
 </p>
 
 </br>
+
 ### 🗄️ Databases and cloud hosting
 
 <p>
@@ -122,7 +123,8 @@
 </p>
 
 </br>
-### 💻 Software and tools
+
+### 🛠️ Software and tools
 
  <p>
     <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
@@ -137,6 +139,16 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
     <a href="#"><img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"></a>
+ 
+</p>
+
+</br>
+
+### 👨‍💻 Operating System
+
+ <p>
+    <a href="#"><img alt="Windows 10" src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"></a>
+    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
  
 </p>
 

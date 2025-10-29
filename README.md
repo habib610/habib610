@@ -42,6 +42,7 @@
 </br>
 
 <p align="left">
+   <a href="https://github.com/habib610/uprise-nxt"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=habib610&repo=uprise-nxt&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/habib610/spring-blog"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=habib610&repo=spring-blog&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/habib610/instagram-web-v"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=habib610&repo=instagram-web-v&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 <a href="https://github.com/habib610/air-cnc"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=habib610&repo=air-cnc&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
